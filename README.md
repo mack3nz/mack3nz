@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # mack3nz
@@ -183,4 +182,4 @@ Low-overhead rendering framework built around Dear ImGui and DirectX.
 ### *"Performance is not an optimization. It's part of the architecture."*
 
 </div>
-````
+
