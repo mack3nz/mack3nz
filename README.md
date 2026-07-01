@@ -52,7 +52,7 @@ Desenvolvedor especializado em sistemas de alta performance e interação profun
 ### 📊 Performance & Impacto
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mack3nz&theme=tokyonight" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mack3nz&theme=cobalt2" />
 </p>
 
 <p align="center">
