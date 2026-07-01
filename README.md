@@ -1,216 +1,201 @@
 
 <div align="center">
 
-# mack3nz
+# MACK3NZ
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Modern+C%2B%2B+Developer;Windows+Desktop+Applications;Dear+ImGui+Specialist;Performance+Driven+Architecture" />
+### Windows Systems Engineer
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=mack3nz&style=for-the-badge&color=0ea5e9"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=3BA8FF&center=true&vCenter=true&width=750&lines=Modern+C%2B%2B;Windows+Desktop;Kernel+Development;Hypervisor+Engineering;Dear+ImGui;Authentication+Systems;Performance+Driven+Software" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,ts,nodejs,nestjs,postgres,docker,git,visualstudio,vscode&perline=10"/>
+> Projetando software nativo de alta performance para o ecossistema Windows.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mack3nz&style=for-the-badge&color=3BA8FF"/>
 
 </div>
 
 ---
 
-# // SOBRE
+# Sistema
 
-```cpp
-class Mack3nz
-{
-public:
+```text
+STATUS
 
-    constexpr auto Role =
-        "Software Engineer";
-
-    constexpr auto Platform =
-        "Windows";
-
-    constexpr auto Mission =
-        "Construir aplicações desktop de alta performance.";
-
-    constexpr auto Expertise =
-    {
-        "Modern C++",
-        "Desktop Development",
-        "Dear ImGui",
-        "Windows API",
-        "Performance Engineering"
-    };
-
-    void Build()
-    {
-        Design();
-        Develop();
-        Optimize();
-        Deliver();
-    }
-};
+● Plataforma..............Windows
+● Linguagem...............Modern C++
+● Desktop................ONLINE
+● Kernel.................ONLINE
+● Hypervisor.............ONLINE
+● ImGui..................ONLINE
+● APIs...................ONLINE
+● Authentication.........ONLINE
 ```
 
 ---
 
-# // ESPECIALIDADES
+# Identidade
+
+```cpp
+namespace mack3nz
+{
+    class Engineer
+    {
+    public:
+
+        static constexpr auto Platform = "Windows";
+
+        static constexpr auto Mission =
+            "Construir software rápido, modular e próximo ao sistema operacional.";
+
+        static constexpr auto Stack =
+        {
+            "Modern C++",
+            "Dear ImGui",
+            "Win32 API",
+            "Kernel",
+            "Hypervisors"
+        };
+
+        void Ship()
+        {
+            Design();
+            Build();
+            Profile();
+            Optimize();
+            Repeat();
+        }
+    };
+}
+```
+
+---
+
+# Áreas de Especialização
 
 ```text
 /
-
-├── Engenharia de Software
-├── Aplicações Desktop para Windows
-├── Modern C++
-├── Dear ImGui
-├── Arquitetura de Software
-├── Performance
-├── Multithreading
-├── Desenvolvimento de Ferramentas
-├── Componentes Reutilizáveis
-└── Backend para aplicações nativas
+├── Desktop Applications
+│   ├── Dear ImGui
+│   ├── DirectX
+│   ├── UI Frameworks
+│   └── Rendering
+│
+├── Windows Internals
+│   ├── Win32 API
+│   ├── NTAPI
+│   ├── Memory Management
+│   ├── Process Architecture
+│   └── Synchronization
+│
+├── Kernel Engineering
+│   ├── Drivers (WDM/WDF)
+│   ├── IOCTL
+│   ├── Kernel Debugging
+│   ├── Virtual Memory
+│   └── User ↔ Kernel Communication
+│
+├── Hypervisor Engineering
+│   ├── Virtualization
+│   ├── VMX
+│   ├── EPT
+│   └── Low-Level Systems
+│
+├── Authentication
+│   ├── Licensing
+│   ├── Native APIs
+│   ├── Secure Communication
+│   └── Cryptography
+│
+└── Game Systems
+    ├── Reverse Engineering
+    ├── Engine Analysis
+    ├── Memory Analysis
+    ├── Overlay Development
+    └── Native Tooling
 ```
 
 ---
 
-# // STACK PRINCIPAL
+# Stack Principal
 
 <div align="center">
 
-| Core | Desktop | Windows | Backend |
-|:----:|:-------:|:-------:|:-------:|
-| Modern C++ | Dear ImGui | Win32 API | NestJS |
-| STL | DirectX | Windows Internals | TypeScript |
-| Templates | Rendering | Memory Management | PostgreSQL |
-| Multithreading | UI Architecture | WinDbg | Docker |
+<img src="https://skillicons.dev/icons?i=cpp,c,visualstudio,vscode,git,docker&perline=6"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,ts,nodejs,nestjs,postgres,docker,git,visualstudio,vscode&perline=10"/>
-
-</div>
+| Core | Desktop | Sistema | Infraestrutura |
+|------|---------|----------|----------------|
+| Modern C++ | Dear ImGui | Win32 API | Native APIs |
+| STL | DirectX | Windows Internals | Authentication |
+| Templates | Rendering | Kernel | Licensing |
+| Multithreading | Desktop UI | Hypervisors | Cryptography |
 
 ---
 
-# // ÁREAS DE ATUAÇÃO
+# Projetos
 
 ```text
-DESKTOP DEVELOPMENT
+[ Desktop Framework ]
 
-• Aplicações Desktop
-• Dear ImGui
-• DirectX
-• Renderização em Tempo Real
-• Custom Widgets
-• Multi Viewport
-• Ferramentas para Windows
+Framework para aplicações desktop modernas,
+modularizado e desenvolvido em Modern C++.
 
-────────────────────────────────────
 
-WINDOWS
+[ ImGui Components ]
 
-• Win32 API
-• Windows Internals
-• NTAPI
-• Process Architecture
-• Memory Management
-• Multithreading
-• WinDbg
+Biblioteca de componentes reutilizáveis para
+interfaces profissionais utilizando Dear ImGui.
 
-────────────────────────────────────
 
-SOFTWARE ENGINEERING
+[ Kernel Toolkit ]
 
-• Clean Architecture
-• SOLID
-• Design Patterns
-• Componentização
-• SDK Development
-• Modularização
-• Performance
+Biblioteca para comunicação entre User-Mode
+e Kernel-Mode utilizando drivers Windows.
 
-────────────────────────────────────
 
-BACKEND
+[ Hypervisor Lab ]
 
-• NestJS
-• TypeScript
-• REST APIs
-• WebSockets
-• PostgreSQL
-• Docker
+Projetos voltados para virtualização,
+instrumentação e pesquisa em baixo nível.
+
+
+[ Native Auth ]
+
+Sistema de autenticação e licenciamento
+para aplicações desktop.
 ```
 
 ---
 
-# // PROJETOS EM DESTAQUE
-
-<div align="center">
-
-| Projeto | Descrição |
-|---------|-----------|
-| 🖥️ **Desktop Framework** | Estrutura modular para desenvolvimento de aplicações Windows modernas utilizando Modern C++. |
-| 🎨 **ImGui Toolkit** | Biblioteca de componentes reutilizáveis para interfaces desktop utilizando Dear ImGui. |
-| ⚡ **Performance Toolkit** | Ferramentas para profiling, otimização e monitoramento de aplicações nativas. |
-| 🔧 **Native Utilities** | Conjunto de bibliotecas para automação, gerenciamento de memória e infraestrutura de aplicações Windows. |
-
-</div>
-
----
-
-# // FILOSOFIA DE ENGENHARIA
+# Filosofia
 
 ```text
-✓ Arquitetura antes da implementação
+✓ Performance First
 
-✓ Código limpo e reutilizável
+✓ Arquitetura Modular
 
-✓ Performance previsível
+✓ Componentes Reutilizáveis
 
-✓ Componentes desacoplados
+✓ Código Limpo
 
-✓ Interfaces intuitivas
+✓ Interfaces Nativas
 
-✓ Desenvolvimento orientado à manutenção
+✓ Diagnóstico antes de Otimização
 
-✓ Simplicidade sempre que possível
+✓ Simplicidade é uma Feature
 ```
 
 ---
 
-# // EXPERIÊNCIA TÉCNICA
-
-```text
-Modern C++
-██████████████████████████████████ 100%
-
-Desktop Development
-████████████████████████████████ 95%
-
-Dear ImGui
-███████████████████████████████ 95%
-
-Windows API
-██████████████████████████████ 90%
-
-Software Architecture
-█████████████████████████████ 90%
-
-Backend
-████████████████████████ 75%
-```
-
----
-
-# // GITHUB ANALYTICS
+# GitHub
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mack3nz&theme=github_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mack3nz&theme=github_dark"/>
 
 <br><br>
 
@@ -220,43 +205,18 @@ Backend
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mack3nz&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mack3nz&theme=github_dark"/>
-
-<br><br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mack3nz&theme=github-compact"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mack3nz&theme=github-compact"/>
 
 </div>
-
----
-
-# // ATUALMENTE
-
-```yaml
-Foco:
-  Plataforma:
-    - Windows Desktop
-
-  Desenvolvendo:
-    - Aplicações Nativas
-    - Componentes Dear ImGui
-    - Bibliotecas em C++
-    - Ferramentas Desktop
-    - Arquiteturas Escaláveis
-
-Objetivo:
-  Criar software rápido, elegante e fácil de manter.
-```
 
 ---
 
 <div align="center">
 
-## PERFORMANCE • ARQUITETURA • EXPERIÊNCIA DO USUÁRIO
+## BUILDING SOFTWARE FROM USER MODE TO HYPERVISOR
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,100:0ea5e9&section=footer"/>
+**Performance • Precisão • Arquitetura**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:3BA8FF&section=footer"/>
 
 </div>
-
