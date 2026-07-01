@@ -121,7 +121,7 @@ namespace mack3nz
 
 # Stack Principal
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=cpp,c,visualstudio,vscode,git,docker&perline=6"/>
 
@@ -199,7 +199,6 @@ para aplicações desktop.
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mack3nz&show_icons=true&hide_border=true&theme=github_dark"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mack3nz&theme=github-dark&hide_border=true"/>
 
@@ -212,8 +211,6 @@ para aplicações desktop.
 ---
 
 <div align="center">
-
-## BUILDING SOFTWARE FROM USER MODE TO HYPERVISOR
 
 **Performance • Precisão • Arquitetura**
 
