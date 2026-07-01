@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/29529344/README.1.md)
+
 # mack3nz
 
 ### Software Engineer | Low-Level Specialist | High-Performance Architect
