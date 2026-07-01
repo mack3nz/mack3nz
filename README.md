@@ -2,184 +2,207 @@
 
 # mack3nz
 
-### Software Engineer • Systems Programmer • Windows Internals
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=650&lines=Systems+Engineer;Windows+Internals;Native+C%2B%2B+Developer;Performance+Architecture;Backend+Engineering" />
 
-Building performant software, native systems and scalable architectures.
+<br>
 
-<p>
-    <img src="https://komarev.com/ghpvc/?username=mack3nz&label=Profile%20Views&color=0A84FF&style=flat-square"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=mack3nz&style=for-the-badge&color=0ea5e9"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,ts,nodejs,nestjs,postgres,docker,git&perline=8"/>
 
 </div>
 
 ---
 
-# About
+# // ABOUT
 
-Software Engineer focused on **high-performance native applications**, **Windows Internals**, and **modern backend architectures**.
+```cpp
+class SoftwareEngineer
+{
+public:
 
-My work combines low-level engineering with scalable software design, emphasizing performance, maintainability, and clean architecture.
+    std::string Name = "mack3nz";
 
-Current areas of interest include:
+    std::string Focus =
+    {
+        "Windows Internals",
+        "Native Development",
+        "Performance Engineering",
+        "Backend Architecture"
+    };
 
-- Native Windows Development
-- System Programming
-- Performance Engineering
-- Backend Architecture
-- Distributed Systems
-- Reverse Engineering
-- Memory Management
+    bool Coffee = true;
+    bool Learning = true;
 
----
-
-# Core Technologies
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,ts,js"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,docker"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</p>
-
----
-
-# Technical Expertise
-
-## Systems Programming
-
-- Modern C++
-- Win32 API
-- NTAPI
-- Windows Internals
-- Memory Management
-- Process Architecture
-- Multithreading
-- Synchronization
-- Performance Optimization
-
----
-
-## Native Development
-
-- Driver Development (WDM/WDF)
-- IOCTL Communication
-- PE Format
-- DLL Loading
-- Native Debugging
-- WinDbg
-- x64dbg
-
----
-
-## Backend Engineering
-
-- NestJS
-- REST APIs
-- WebSockets
-- PostgreSQL
-- Docker
-- Authentication
-- High-throughput Services
-- Distributed Architectures
-
----
-
-## Graphics
-
-- Dear ImGui
-- DirectX 9
-- DirectX 11
-- Real-time Rendering
-- GPU-aware Applications
-
----
-
-# Featured Projects
-
-### System Integrity
-
-Native Windows applications focused on runtime monitoring, process integrity and memory analysis.
-
----
-
-### Telemetry Platform
-
-High-performance backend platform integrating native C++ components with modern web services.
-
----
-
-### Native Graphics Engine
-
-Low-overhead rendering framework built around Dear ImGui and DirectX.
-
----
-
-# Engineering Principles
-
-```text
-• Performance First
-• Clean Architecture
-• Maintainable Code
-• Reliability
-• Low-Level Precision
-• Continuous Learning
+    void Build()
+    {
+        while(true)
+        {
+            Learn();
+            Design();
+            Optimize();
+            Ship();
+        }
+    }
+};
 ```
 
 ---
 
-# GitHub Analytics
+# // TECHNOLOGY STACK
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mack3nz&theme=github_dark"/>
+| Systems | Backend | Databases | Graphics |
+|:--------:|:-------:|:---------:|:--------:|
+| C++ • C • Assembly | Node.js • NestJS | PostgreSQL | ImGui • DirectX |
+
+</div>
 
 <br>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mack3nz&theme=github_dark"/>
+<div align="center">
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mack3nz&theme=github_dark"/>
-
-<br>
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=mack3nz&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=mack3nz&theme=github-dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,ts,js,nodejs,nestjs,postgres,docker,git,vscode&perline=11"/>
 
 </div>
 
 ---
 
-# Current Focus
+# // SPECIALIZATION
 
-- High-performance native applications
-- Windows ecosystem
-- Modern backend architectures
-- Systems optimization
-- Native tooling
-- Performance analysis
+```text
+▣ Windows Internals
+
+   ├── Win32 API
+   ├── NTAPI
+   ├── Process Architecture
+   ├── Memory Management
+   ├── Synchronization
+   └── Performance Optimization
+
+
+▣ Native Engineering
+
+   ├── Driver Development
+   ├── WDM / WDF
+   ├── IOCTL
+   ├── PE Format
+   ├── WinDbg
+   └── x64dbg
+
+
+▣ Backend Systems
+
+   ├── NestJS
+   ├── REST APIs
+   ├── WebSockets
+   ├── Authentication
+   ├── PostgreSQL
+   └── Docker
+
+
+▣ Graphics
+
+   ├── Dear ImGui
+   ├── DirectX 9
+   ├── DirectX 11
+   └── Real-Time Rendering
+```
+
+---
+
+# // FEATURED PROJECTS
+
+<div align="center">
+
+| PROJECT | DESCRIPTION |
+|---------|-------------|
+| ⚡ **System Integrity** | Runtime monitoring platform focused on native process integrity and memory analysis. |
+| 🚀 **Telemetry Platform** | High-throughput backend integrating native components with scalable APIs. |
+| 🎯 **Native Graphics** | Lightweight rendering framework powered by Dear ImGui and DirectX. |
+
+</div>
+
+---
+
+# // ARCHITECTURE
+
+```text
+                  USER MODE
+────────────────────────────────────────
+
+          Native Applications
+                 │
+                 │
+         Memory Management
+                 │
+        Performance Layer
+                 │
+────────────────────────────────────────
+             Windows API
+────────────────────────────────────────
+                 │
+            Kernel Services
+                 │
+           Device Drivers
+                 │
+────────────────────────────────────────
+              HARDWARE
+```
+
+---
+
+# // GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mack3nz&theme=github_dark"/>
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mack3nz&show_icons=true&hide_border=true&theme=github_dark"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mack3nz&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mack3nz&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mack3nz&theme=github_dark"/>
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mack3nz&theme=github-compact"/>
+
+</div>
+
+---
+
+# // CURRENT MISSION
+
+```yaml
+Mission:
+  Build:
+    - Native Software
+    - High Performance Systems
+    - Modern Backend Services
+    - Scalable Architectures
+
+Status:
+  Performance: ███████████████████ 100%
+  Learning:    ███████████████████ 100%
+  Curiosity:   ███████████████████ ∞
+```
 
 ---
 
 <div align="center">
 
-### *"Performance is not an optimization. It's part of the architecture."*
+## PERFORMANCE • PRECISION • ARCHITECTURE
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,100:0ea5e9&section=footer"/>
 
 </div>
-
