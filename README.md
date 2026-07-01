@@ -1,8 +1,9 @@
+
 <div align="center">
 
 # mack3nz
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=650&lines=Systems+Engineer;Windows+Internals;Native+C%2B%2B+Developer;Performance+Architecture;Backend+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Modern+C%2B%2B+Developer;Windows+Desktop+Applications;Dear+ImGui+Specialist;Performance+Driven+Architecture" />
 
 <br>
 
@@ -10,54 +11,78 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,ts,nodejs,nestjs,postgres,docker,git&perline=8"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,ts,nodejs,nestjs,postgres,docker,git,visualstudio,vscode&perline=10"/>
 
 </div>
 
 ---
 
-# // ABOUT
+# // SOBRE
 
 ```cpp
-class SoftwareEngineer
+class Mack3nz
 {
 public:
 
-    std::string Name = "mack3nz";
+    constexpr auto Role =
+        "Software Engineer";
 
-    std::string Focus =
+    constexpr auto Platform =
+        "Windows";
+
+    constexpr auto Mission =
+        "Construir aplicações desktop de alta performance.";
+
+    constexpr auto Expertise =
     {
-        "Windows Internals",
-        "Native Development",
-        "Performance Engineering",
-        "Backend Architecture"
+        "Modern C++",
+        "Desktop Development",
+        "Dear ImGui",
+        "Windows API",
+        "Performance Engineering"
     };
-
-    bool Coffee = true;
-    bool Learning = true;
 
     void Build()
     {
-        while(true)
-        {
-            Learn();
-            Design();
-            Optimize();
-            Ship();
-        }
+        Design();
+        Develop();
+        Optimize();
+        Deliver();
     }
 };
 ```
 
 ---
 
-# // TECHNOLOGY STACK
+# // ESPECIALIDADES
+
+```text
+/
+
+├── Engenharia de Software
+├── Aplicações Desktop para Windows
+├── Modern C++
+├── Dear ImGui
+├── Arquitetura de Software
+├── Performance
+├── Multithreading
+├── Desenvolvimento de Ferramentas
+├── Componentes Reutilizáveis
+└── Backend para aplicações nativas
+```
+
+---
+
+# // STACK PRINCIPAL
 
 <div align="center">
 
-| Systems | Backend | Databases | Graphics |
-|:--------:|:-------:|:---------:|:--------:|
-| C++ • C • Assembly | Node.js • NestJS | PostgreSQL | ImGui • DirectX |
+| Core | Desktop | Windows | Backend |
+|:----:|:-------:|:-------:|:-------:|
+| Modern C++ | Dear ImGui | Win32 API | NestJS |
+| STL | DirectX | Windows Internals | TypeScript |
+| Templates | Rendering | Memory Management | PostgreSQL |
+| Multithreading | UI Architecture | WinDbg | Docker |
 
 </div>
 
@@ -65,92 +90,118 @@ public:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,ts,js,nodejs,nestjs,postgres,docker,git,vscode&perline=11"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,ts,nodejs,nestjs,postgres,docker,git,visualstudio,vscode&perline=10"/>
 
 </div>
 
 ---
 
-# // SPECIALIZATION
+# // ÁREAS DE ATUAÇÃO
 
 ```text
-▣ Windows Internals
+DESKTOP DEVELOPMENT
 
-   ├── Win32 API
-   ├── NTAPI
-   ├── Process Architecture
-   ├── Memory Management
-   ├── Synchronization
-   └── Performance Optimization
+• Aplicações Desktop
+• Dear ImGui
+• DirectX
+• Renderização em Tempo Real
+• Custom Widgets
+• Multi Viewport
+• Ferramentas para Windows
 
+────────────────────────────────────
 
-▣ Native Engineering
+WINDOWS
 
-   ├── Driver Development
-   ├── WDM / WDF
-   ├── IOCTL
-   ├── PE Format
-   ├── WinDbg
-   └── x64dbg
+• Win32 API
+• Windows Internals
+• NTAPI
+• Process Architecture
+• Memory Management
+• Multithreading
+• WinDbg
 
+────────────────────────────────────
 
-▣ Backend Systems
+SOFTWARE ENGINEERING
 
-   ├── NestJS
-   ├── REST APIs
-   ├── WebSockets
-   ├── Authentication
-   ├── PostgreSQL
-   └── Docker
+• Clean Architecture
+• SOLID
+• Design Patterns
+• Componentização
+• SDK Development
+• Modularização
+• Performance
 
+────────────────────────────────────
 
-▣ Graphics
+BACKEND
 
-   ├── Dear ImGui
-   ├── DirectX 9
-   ├── DirectX 11
-   └── Real-Time Rendering
+• NestJS
+• TypeScript
+• REST APIs
+• WebSockets
+• PostgreSQL
+• Docker
 ```
 
 ---
 
-# // FEATURED PROJECTS
+# // PROJETOS EM DESTAQUE
 
 <div align="center">
 
-| PROJECT | DESCRIPTION |
-|---------|-------------|
-| ⚡ **System Integrity** | Runtime monitoring platform focused on native process integrity and memory analysis. |
-| 🚀 **Telemetry Platform** | High-throughput backend integrating native components with scalable APIs. |
-| 🎯 **Native Graphics** | Lightweight rendering framework powered by Dear ImGui and DirectX. |
+| Projeto | Descrição |
+|---------|-----------|
+| 🖥️ **Desktop Framework** | Estrutura modular para desenvolvimento de aplicações Windows modernas utilizando Modern C++. |
+| 🎨 **ImGui Toolkit** | Biblioteca de componentes reutilizáveis para interfaces desktop utilizando Dear ImGui. |
+| ⚡ **Performance Toolkit** | Ferramentas para profiling, otimização e monitoramento de aplicações nativas. |
+| 🔧 **Native Utilities** | Conjunto de bibliotecas para automação, gerenciamento de memória e infraestrutura de aplicações Windows. |
 
 </div>
 
 ---
 
-# // ARCHITECTURE
+# // FILOSOFIA DE ENGENHARIA
 
 ```text
-                  USER MODE
-────────────────────────────────────────
+✓ Arquitetura antes da implementação
 
-          Native Applications
-                 │
-                 │
-         Memory Management
-                 │
-        Performance Layer
-                 │
-────────────────────────────────────────
-             Windows API
-────────────────────────────────────────
-                 │
-            Kernel Services
-                 │
-           Device Drivers
-                 │
-────────────────────────────────────────
-              HARDWARE
+✓ Código limpo e reutilizável
+
+✓ Performance previsível
+
+✓ Componentes desacoplados
+
+✓ Interfaces intuitivas
+
+✓ Desenvolvimento orientado à manutenção
+
+✓ Simplicidade sempre que possível
+```
+
+---
+
+# // EXPERIÊNCIA TÉCNICA
+
+```text
+Modern C++
+██████████████████████████████████ 100%
+
+Desktop Development
+████████████████████████████████ 95%
+
+Dear ImGui
+███████████████████████████████ 95%
+
+Windows API
+██████████████████████████████ 90%
+
+Software Architecture
+█████████████████████████████ 90%
+
+Backend
+████████████████████████ 75%
 ```
 
 ---
@@ -181,28 +232,31 @@ public:
 
 ---
 
-# // CURRENT MISSION
+# // ATUALMENTE
 
 ```yaml
-Mission:
-  Build:
-    - Native Software
-    - High Performance Systems
-    - Modern Backend Services
-    - Scalable Architectures
+Foco:
+  Plataforma:
+    - Windows Desktop
 
-Status:
-  Performance: ███████████████████ 100%
-  Learning:    ███████████████████ 100%
-  Curiosity:   ███████████████████ ∞
+  Desenvolvendo:
+    - Aplicações Nativas
+    - Componentes Dear ImGui
+    - Bibliotecas em C++
+    - Ferramentas Desktop
+    - Arquiteturas Escaláveis
+
+Objetivo:
+  Criar software rápido, elegante e fácil de manter.
 ```
 
 ---
 
 <div align="center">
 
-## PERFORMANCE • PRECISION • ARCHITECTURE
+## PERFORMANCE • ARQUITETURA • EXPERIÊNCIA DO USUÁRIO
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,100:0ea5e9&section=footer"/>
 
 </div>
+
